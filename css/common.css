@@ -16,6 +16,10 @@ html {
 *::before {
   box-sizing: inherit;
 }
+body {
+  background-color: #ffffff;
+  color: var(--primary-text-color);
+}
 /*обнуление стилей */
 h1,
 h2,
